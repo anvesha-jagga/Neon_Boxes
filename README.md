@@ -19,9 +19,9 @@ Players must balance **scoring points** and **staying alive** while a countdown 
 
 Three types of boxes appear during gameplay:
 
-- 🟪 **Pink Boxes** – Give **+5 score**
-- ⬜ **White Boxes** – **Increase remaining time**
-- 🔵 **Blue Boxes** – **Reduce remaining time**
+- **Pink Boxes** – Give **+5 score**
+-  **White Boxes** – **Increase remaining time**
+-  **Blue Boxes** – **Reduce remaining time**
 
 The game ends when the **timer reaches zero**.
 
